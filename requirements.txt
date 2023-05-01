@@ -4,4 +4,4 @@ pytest-cov==2.7.1
 
 pylint-runner==0.5.4
 
-flask==1.1.1
+flask==2.3.2
